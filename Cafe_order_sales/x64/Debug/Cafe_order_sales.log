@@ -1,0 +1,5 @@
+﻿  cafe.cpp
+C:\work\Cafe_order_sales\cafe.cpp(16,6): warning C4101: 'sales_buff' :참조되지 않은 지역 변수입니다.
+  main.cpp
+  코드를 생성하고 있습니다...
+  Cafe_order_sales.vcxproj -> C:\work\Cafe_order_sales\x64\Debug\Cafe_order_sales.exe
